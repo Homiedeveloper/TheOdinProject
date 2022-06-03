@@ -6,4 +6,10 @@ The link to the website:
 https://www.theodinproject.com/
 
 
-I will be working on FullStack Javascript
+I will be working on Foundation and FullStack Javascript
+
+Foundation: https://www.theodinproject.com/paths/foundations/courses/foundations
+
+Fullstack Javascript: https://www.theodinproject.com/paths/full-stack-javascript
+
+
